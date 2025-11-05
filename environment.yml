@@ -8,6 +8,7 @@ dependencies:
   - matplotlib
   - scikit-learn
   - statsmodels
+  - seaborn
   - scipy
   - jupyter
   - ipykernel
